@@ -1,0 +1,11 @@
+num= int(input('enter a number'))
+if(num%2)==0:
+    print('given number is even number',format(num))
+else:
+    print(' given number is odd number',format(num))
+
+
+
+Output:
+      enter a number 8
+      given number is even number 8
